@@ -1,0 +1,6 @@
+pandas
+streamlit
+kaggle
+matplotlib
+numpy
+bs4

@@ -1,0 +1,24 @@
+# Pastas do ambiente virtual
+bin/
+lib/
+lib64/
+include/
+share/
+pyvenv.cfg
+
+# Dados e arquivos temporários
+dados_historicos/
+climate-change-global-temperature-data/
+
+# Checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos Python compilados
+*.pyc
+__pycache__/
+
+
+# Arquivos de rascunhos
+projeto.ipynb
+PB_TP1_old.ipynb
+PB_TP1_old.py
